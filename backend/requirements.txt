@@ -4,3 +4,4 @@ torch==1.13.1
 scikit-image==0.19.3
 numpy==1.21.6
 Pillow==9.0.1
+Werkzeug==2.0.3
